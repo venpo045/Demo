@@ -1,2 +1,3 @@
 Hello from cmd
 second line
+third line
