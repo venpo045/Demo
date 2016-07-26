@@ -3,3 +3,4 @@ second line
 third line
 feature1 created
 feature2 commit2
+branch1 created
